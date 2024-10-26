@@ -36,7 +36,7 @@
                 <td><img src="https://i.ibb.co/SKR01Zk/Screenshot-2024-09-21-154705.png" alt="About Page"></td>
                 <td><img src="https://i.ibb.co/rypKnZk/Screenshot-358.png" alt="Screenshot-358" alt="Predictor Page"></td>
                 <td><img src="https://i.ibb.co/b2NNNhm/Screenshot-2024-09-21-155036.png" alt="Recommandains"></td>
-               <td><img src="https://i.ibb.co/MSRY3ps/Screenshot-2024-09-21-154215.png" alt="user"></td>
+               <td><img src="https://i.ibb.co/MSRY3ps/Screenshot-2024-09-21-154215.png" alt="user"><</td>
             </tr>
         </table>
         <h2>💻 Frontend Tech Stack</h2>
